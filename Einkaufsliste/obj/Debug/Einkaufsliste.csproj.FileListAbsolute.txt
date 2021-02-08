@@ -1,0 +1,10 @@
+C:\Users\b\source\repos\Einkaufsliste\Einkaufsliste\bin\Debug\Einkaufsliste.exe.config
+C:\Users\b\source\repos\Einkaufsliste\Einkaufsliste\bin\Debug\Einkaufsliste.exe
+C:\Users\b\source\repos\Einkaufsliste\Einkaufsliste\bin\Debug\Einkaufsliste.pdb
+C:\Users\b\source\repos\Einkaufsliste\Einkaufsliste\obj\Debug\Einkaufsliste.csprojAssemblyReference.cache
+C:\Users\b\source\repos\Einkaufsliste\Einkaufsliste\obj\Debug\Einkaufsliste.frmEinkaufsliste.resources
+C:\Users\b\source\repos\Einkaufsliste\Einkaufsliste\obj\Debug\Einkaufsliste.Properties.Resources.resources
+C:\Users\b\source\repos\Einkaufsliste\Einkaufsliste\obj\Debug\Einkaufsliste.csproj.GenerateResource.cache
+C:\Users\b\source\repos\Einkaufsliste\Einkaufsliste\obj\Debug\Einkaufsliste.csproj.CoreCompileInputs.cache
+C:\Users\b\source\repos\Einkaufsliste\Einkaufsliste\obj\Debug\Einkaufsliste.exe
+C:\Users\b\source\repos\Einkaufsliste\Einkaufsliste\obj\Debug\Einkaufsliste.pdb
